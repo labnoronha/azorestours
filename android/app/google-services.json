@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061839860328",
+    "project_id": "toursazores-e6b9f",
+    "storage_bucket": "toursazores-e6b9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061839860328:android:56b5d5a761bbc5140341dd",
+        "android_client_info": {
+          "package_name": "com.azorestour.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061839860328-ojre89hhv5i0hm5fabj1nsjte7sup7r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azorestour.app",
+            "certificate_hash": "8c806620c4a593ff2b1447ca2cb783f0826a3859"
+          }
+        },
+        {
+          "client_id": "1061839860328-qgokjq3dffcda3uhkaomqsgh87rgpd0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-FbAXnqqrqiok651eEYT1Jj6OuLRmTyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061839860328-qgokjq3dffcda3uhkaomqsgh87rgpd0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
